@@ -162,7 +162,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Cuadramat and Pakrahmatmamat"] = true,
     ["La Sahur Combinasion"] = true,
     ["Cupid Cupid Sahur"] = true,
-    ["Griffin"] = true,
+    ["Noo My Gold"] = true,
     ["Nacho Spyder"] = true
 }
 task.spawn(function()
